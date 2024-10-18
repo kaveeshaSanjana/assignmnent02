@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Oriya:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Spicy+Rice&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+
+p{
+    color: white;
+}
+.body{
+    background-color: #1f2166;
+}
+.SLtext{
+    color: white;
+    margin:20px ;
+    font-family:"Noto Serif Oriya"," serif";
+    font-size: 70px;
+}
+.nationalFalg{
+margin: 25px;
+}
+.secondText{
+    color: white;
+    font-size:x-large;
+
+}
+.pgThird{
+    color: white;
+    font-size: 50px;
+    font-family: "Playfair Display", serif;
+
+}
+.pgBeforButton{
+    margin: 10px ;
+    color: white;
+    font-size: medium;
+    margin-bottom: 25px;
+}
+.startButton{
+    background-color: orange;
+    padding: 10px;
+    border-radius: 8px;
+    color: white;
+    text-decoration: none;
+}
+
+.introVideo{
+    margin: 25px;
+    width: 80%;
+    border-radius: 25px;
+}
+
+.miniCards{
+    margin: 10px;
+    width: 400px;
+    border-radius: 25px;
+}
+
+.rectangle{
+    height: 200px;
+    width: 350px;
+    background-color: orange;
+    margin: 10px;                   
+
+}
+.imgSlides{
+    margin: 30px;
+    border-radius: 25px;
+    width: 95%;
+}
+.slidesText{
+    font-size: x-large;
+    font-family:"Playfair Display", serif ;
+    margin-top : 170px; ;
+
+}
+
+.footerLeft{
+    text-align: left;
+   color: white
+}
+
+.footerRight{
+    text-align: right;
+
+}
+.hr{
+    color: white;
+}
